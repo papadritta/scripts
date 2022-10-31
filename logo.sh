@@ -15,5 +15,4 @@ echo -e '██████╔╝██║  ██║██║   ██║      
 echo -e '╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝'
 echo -e '                                 @papadritta '
 echo -e '\e[0m'
-
-sleep 2
+sleep 1
